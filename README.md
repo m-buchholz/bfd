@@ -1,3 +1,3 @@
 # bfd
 
-Link for page: https://m-buchholz.github.io/bfd/index.html
+Link for page: https://m-buchholz.github.io/bfd/01/index.html
