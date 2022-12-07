@@ -3,7 +3,16 @@
     background-color: #fcd900;
 }
 
+.d1:hover {
+    color: white;
+    background-color: #a6921a !important;
+}
+
 .d1-selected {
     color: black;
     background-color: #a6921a;
+}
+
+h2 {
+    margin-bottom: 30px;
 }
